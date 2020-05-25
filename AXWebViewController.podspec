@@ -139,7 +139,6 @@ s.requires_arc = true
 # s.dependency "JSONKit", "~> 1.4"
 s.dependency "AXPracticalHUD"
 s.dependency "AXNavigationBackItemInjection"
-s.dependency "NJKWebViewProgress"
 s.dependency "Aspects"
 
 end
